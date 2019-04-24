@@ -1,11 +1,3 @@
-//
-//  DataManager.swift
-//  dbLayer
-//
-//  Created by Woxapp on 27.10.17.
-//  Copyright © 2017 Woxapp. All rights reserved.
-//
-
 import UIKit
 import RealmSwift
 import CoreData

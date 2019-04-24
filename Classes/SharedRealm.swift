@@ -1,11 +1,3 @@
-//
-//  SharedRealm.swift
-//  dbLayer
-//
-//  Created by Woxapp on 04.12.17.
-//  Copyright © 2017 Woxapp. All rights reserved.
-//
-
 import UIKit
 import RealmSwift
 
